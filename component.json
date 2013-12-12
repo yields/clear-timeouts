@@ -3,7 +3,7 @@
   "repo": "yields/clear-timeouts",
   "description": "clear all timeouts",
   "keywords": ["clear", "timeouts", "timeout"],
-  "version": "0.0.1",
+  "version": "0.0.2",
   "license": "MIT",
   "main": "index.js",
   "scripts": ["index.js"],
