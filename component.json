@@ -6,5 +6,10 @@
   "version": "0.0.1",
   "license": "MIT",
   "main": "index.js",
-  "scripts": ["index.js"]
+  "scripts": ["index.js"],
+  "development": {
+    "visionmedia/mocha-matrix": "*",
+    "visionmedia/mocha": "*",
+    "component/assert": "*"
+  }
 }
